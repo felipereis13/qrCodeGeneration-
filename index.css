@@ -1,0 +1,18 @@
+body {
+    background-color: #e9ecef;
+}
+
+.card {
+    border: none;
+    border-radius: 0.75rem;
+}
+
+#qr-code-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 0.5rem;
+}
+
+.cardCenter {
+    width: 25rem;
+}
